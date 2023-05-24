@@ -1,9 +1,3 @@
-# Who to call?
-
-<img src="/Images/audience-targeting.png" alt="Audience Targeting" >
-
-*By Nadine Amersi-Belton*
-
 ## Problem statement
 
 Bank XYZ has onboarded 2000 new customers through acquiring a smaller bank. Bank XYZ launches a telemarketing campaign to incite these customers to subscribe to a term deposit. Due to budget and ressource constraints, only 500 of these new customers can be contacted in this initial stage.
@@ -14,11 +8,11 @@ Using data from bank XYZ's customer base and results of the campaign for its exi
 
 * **Jupyter Notebook**
 
-The [Jupyter Notebook](https://nbviewer.jupyter.org/github/nadinezab/bank-marketing/blob/master/bank-marketing.ipynb) is our key deliverable and contains details of our approach and methodology, data cleaning, exploratory data analysis, model training and tuning and recommendations.
+The [Jupyter Notebook](https://nbviewer.jupyter.org/github/mac-OS-mac/bank-marketing/blob/master/bank-marketing.ipynb) is our key deliverable and contains details of our approach and methodology, data cleaning, exploratory data analysis, model training and tuning and recommendations.
 
 * **Presentation**
 
-The [presentation](https://github.com/nadinezab/bank-marketing/blob/master/presentation.pdf) gives a high-level overview of our approach, findings and recommendations for non-technical stakeholders. It is aimed to be between 5 and 10 minutes long.
+The [presentation](https://github.com/mac-OS-mac/bank-marketing/blob/master/presentation.pdf) gives a high-level overview of our approach, findings and recommendations for non-technical stakeholders. It is aimed to be between 5 and 10 minutes long.
 
 * **Data**
 
@@ -26,11 +20,7 @@ The dataset can be found in the file `bank-additional-full.csv` in the Data fold
 
 * **Ressources**
 
-A collection of [helper functions](https://github.com/nadinezab/bank-marketing/blob/master/resources.py) defined in the project and saved in `resources.py` for future use.
-
-* **Blog Post**
-
-A [blog post](https://towardsdatascience.com/who-to-call-a-classification-project-with-a-twist-e2577482d176?source=friends_link&sk=b7d2d3e48c422aeddc6b5c4796866a4a) on Medium was created as part of this project and published in Towards Data Science.
+A collection of [helper functions](https://github.com/mac-OS-mac/bank-marketing/blob/master/resources.py) defined in the project and saved in `resources.py` for future use
 
 ## Results and recommendations
 
@@ -72,6 +62,6 @@ Other findings:
 
 ## Contact
 
-* If you have any questions, you can contact me at nzamersi@gmail.com
+* If you have any questions, you can contact me at markngige001@gmail.com
 
 Header image source: https://appsamurai.com/mobile-audience-targeting-how-to-hit-the-bulls-eye/# Phase3project
